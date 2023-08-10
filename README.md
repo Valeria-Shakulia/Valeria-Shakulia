@@ -1,16 +1,17 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h1>Hi there, I'm Valeria Shakulia👋</h1>
+  <h3>I'm a Data Analyst from Moscow</h3>
 
-<!--
-**Valeria-Shakulia/Valeria-Shakulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+  <a href="https://t.me/Shkl_vlr">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:varankinalera@yandex.ru">
+    <img src="https://img.shields.io/badge/Email-red?logo=yandex&logoColor=white&style=for-the-badge" alt="Email Badge"/>
+  </a>
+</div>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
+</div>
