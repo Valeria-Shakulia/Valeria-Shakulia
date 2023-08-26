@@ -20,7 +20,9 @@
 
 
 ### :woman_technologist: About Me : 
--
+- Completed a training course on Data Analytics. I have completed more than 10 educational projects. 
+- At the moment I am a math tutor and I am actively looking for a job in the field of data analytics.
+- Aimed at further development in the field of working with big data. For training and development in the field of analytics, I regularly study articles, books and other information on social networks.
 
 ### :hammer_and_wrench: Languages and Tools:
 <img align="left" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
